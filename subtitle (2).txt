@@ -1,0 +1,153 @@
+One of the things that I'm constantly
+talking about in my courses is accessibility. The things is that I've come to realize
+is that I can talk about this as much as I want but it's really up to me
+to show to you why it's so important for you to make the Web as accessible
+as possible for others. So today we're going to
+talk about three things. First, I would like to explain what
+a Web accessibility professional does. Second, we're going to talk in-depth
+about how disabilities relate to the Web. Finally, I am going to introduce for the first time the four principles
+of accessible interface design. These four principles are something
+that will hopefully guide you throughout the entire time
+you're making Web pages. So let's start off with this whole idea of
+what a Web accessibility coordinator does. One of my pet peeves is people who say
+they don't wanna go into technology because they'd rather do something
+where they can help people. Well, my follow-through to that is that,
+if you really want to help people, you need to understand technology. So, one of the things that people like to
+do is find careers where they can help people who have issues, and work together
+with people who are in technology. And that's exactly the type of thing
+a Web accessibility coordinator will do. So first, one thing they might do is help
+guide policy and purchasing decisions, on what kind of software is most
+accessible to the widest range of people. Second, they can evaluate Web
+interfaces for accessibility. So by learning just some key tips and
+tricks they can go to different pages and find out where there might be pitfalls for
+people. Third, they can assist people
+with disabilities to access online infrastructure. Most universities and
+large companies will always have someone who's job it is to assist those who need
+some help accessing online material. Or really,
+any type of technological tools. Fourth, it's very important that people
+keep pace with changing technology. You will always have a job if you can find
+a way to combine your love with helping people with the different
+tools that are being used. So, let's talk specifics. According to the 2012 U.S. Census, 1 in
+5 people in the U.S. have a disability. That means that there are 60
+million people in the U.S. who are dealing with issues
+that other people may not have. And half of them are impeded
+from using the Internet. So we will talk briefly about four
+issues that tend to pop up the most when dealing with disabilities and
+the Internet. Visual issues, hearing,
+motor and cognitive. When you talk about accessibility almost
+everyone thinks about screen readers. They design and say, oh I'm gonna make sure that my
+page will read well on a screen reader. However, it's much much more than that. While 1.8 million people are completely
+blind, we also have 8 million people who have difficulty reading ordinary
+newsprint even with their glasses on. So one of the things that we want
+to think about when we're designing is more than just font size, we also
+need to think about color contrast. Your different font style. Can someone really see your
+page as easily as possible? We also want to think about
+hearing disabilities. We're talking about from
+partial to total deafness. So 8 million people have difficulty
+hearing in normal conversation and 1 million are completely deaf. More and more places are moving
+to online presence and of course we all know that watching
+videos online is a very common thing. We're all doing it right now. So one of the things to think about
+if you decide to add videos to your site is did you include
+the close captioning to really make sure as many people
+as possible can access your content. But there's also other
+things to think about. Are you blaring music? You might have users who don't even
+realize that music is playing. Or perhaps you have things so low that people can't quite
+grasp what you're saying. One of the things we're gonna talk
+about is making sure that people have the ability to control the different
+multimedia that you're gonna put on your page. This is going to help people with hearing
+disabilities feel that they are in command of the technology, not that
+the technology's in command of them. One of my own personal issues
+is that of motor disabilities. There are many, many people who are unable
+to use a mouse or a physical keyboard. Maybe they have slow response time or
+just limited fine motor skills. So dexterity issues are something that
+affects 8 million people who have difficulty using their arms or hands. But my guess is that for most of us have
+had some issue with trying to use the Web, and haven't been quite able
+to do what we hope to do. So one issue that we talked about is
+what happens when someone tries to tab through your page. This is a very common way for
+people to get through pages. But unless you're very careful you
+can make it that people tab through to nowhere. Another issue is do you
+require a steady hand? Many people like to add flashy and cool
+graphics and animations to the their page. But I know that I personally have been
+frustrated at trying to click a button while the button keeps
+moving around the screen. Another issue is cognitive disabilities
+and when we talk about cognitive disabilities, there's a very wide range
+of issues we might be talking about. There's learning disabilities,
+distractibility, dyslexia. Even the ability to remember or
+focus on large amounts of information. Some of the things I was laughing at when
+I looked at this slide just now is that this slide, perhaps,
+has too much text on it for people to really be able to
+focus on what I'm looking at. So, we're saying that there are 16
+million adults with ADD or ADHD. Another overlooked population is that
+there are a large number of soldiers, Marines, and National Guard members who
+have different psychological conditions such as traumatic brain injury, or
+post-traumatic stress disorder. Now what does that have to do
+with making your Web accessible? We wanna make sure that things
+are easy to understand, not flashing, not requiring
+great amounts of concentration. Cognitive disabilities number
+greater than physical and perceptual disabilities combined. So it's something that you want to think
+about when you're designing your page, or even if you're just help
+other people design theirs. So let's get the specific stats because
+nothing helps me convince people more that they want to design for
+the Web than showing them the numbers. So almost 10% of the U.S.
+population has two or more disabilities. 40 thousand people in the U.S.
+are both deaf and blind. So think about trying to access technology
+when you have those types of issues. 41% of adults 65 and
+older have a disability. And there are almost 9 million people
+with disabilities who are poor. 70% of the disabled are underemployed or
+unemployed. The issue is not that they are not able
+to do the jobs that are out there. Many times there are roadblocks put
+up there that they can't get through in order to do jobs that they
+are very well qualified for. So the Web offers unprecedented
+opportunities for the disabled. Here we are right now all
+taking a class online. So education has the benefit in
+that we teachers can reach as many people as we can. And for students, it means that you have access to
+resources that you never had before. Many, many people get their
+news from online resources so we wanna make sure that we make
+it available to everybody. Commerce I find particularly interesting because many many places
+have online presences but are even realizing that they're
+alienating such a large customer base? And of course the social benefits
+of the Web are easy to see, so many people have created more friends online
+than they actually have in real life. So the benefits of the Web
+are amplified for the disabled. People who before could not access
+education, news, commerce or social interaction,
+are now able to do that. So the Web is an enabling technology and we want to make sure that
+we continue to make it so. So hopefully I convinced you just from
+a human standpoint that it's important to make your Web pages accessible, but
+there are of course legal aspects as well. The Department of Justice is in
+the process of updating the American with Disabilities Act to include online
+resources of state and local entities. What this means is that universities,
+state governments, local governments all need to make
+sure that the information they have online is accessible to everyone. There are many instances of
+case law where individuals or groups have filed civil complaints against
+universities, companies because they feel that their products are not accessible
+to people in a way that it should be. So, let's just review this for a second. What is Web accessibility? What it is is making sure that you're
+making your Web accessible for the widest possible audience, this includes
+people with permanent disabilities and those with temporary disabilities. Currently, the online infrastructure, while a wonderful resource,
+is hostile to those with disabilities. Another issue you want to think about
+is that accessibility is inseparable from search engine optimization,
+mobile technology, and usability. Improve one of these things and
+you can improve all the others. So what's the best way to
+accomplish accessibility? It's adherence to standards. As you start now, you're at the very
+beginning of your Web career. It's the perfect time for
+you to learn the best possible tags and the best possible ways to
+make your page accessible. These standards are going to come from the
+W3C Web Content Accessibility Guidelines, called WCAG. And these guidelines are printable,
+not technology based. What this means is that you don't need to
+go out and find the greatest language or greatest technology to
+make your page accessible, instead you really just need to follow
+four principles as you design your sites. Is my site perceivable, is it operable,
+is it understandable, and is it robust? We'll be talking about these four
+principles throughout our entire course. So, let's review quickly. I know that right now you're just
+starting your Web design career, and it can be overwhelming. But I'm really hoping that one of
+the things you'll make sure that you do is design with accessibility in mind. It is the right thing to do for
+so many reasons. Whether it's because you really want to
+reach out to the largest customer base you can, or because legally it's required. The important thing is
+make sure you do it. And the great thing is accessible design
+is actually pretty straight forward. All you need to do is adhere to standards. The reason that many
+pages are inaccessible, is because they're trying to be flashy and cool and do things that aren't quite yet
+fully implemented to standards. So, finally as we go through this class
+make sure that you pay special attention to the semantics behind HTML tags. These semantics contain
+special information that are going to make it much easier for people who are using assistive devices
+to understand the content of your page. Together we can make sure that
+the next generation of Web developers are designing for
+the greatest possible audience.

@@ -1,0 +1,96 @@
+Hi. Today we're gonna talk
+about the very important, but often overlooked process
+of validating your site. What I mean by that is it's time for
+us to check your code. So why do we wanna validate? I like to call browsers
+the helicopter parents of programming. So a lot of times you're gonna be writing
+up your code and then you'll stop and you'll check and it looks great. And then you write some more code and
+you stop and you check. And it looks great. And by the sheer fact that it looks so
+good, you assume you must be right. But the p problem is, browsers
+are programmed to kind of look for your errors and fix them. The problem with this is that,
+not all browsers fix things the same way. It's also important to remember
+that not everyone is accessing your page with traditional browsers. So as your page becomes more complex,
+these little hidden problems, those little hidden errors that
+the browsers are hiding, can become devastating to people who are trying
+to access them with different software. So there are 3 approaches for
+validating your code for consistency. One is to validate what we call the URI or
+the URL. Another is to validate by your file name
+which means instead of giving you're URL you can actually upload
+your file to check it. The third way is what I
+called by Direct Input. So, let's go ahead and
+run through an example very quickly. In this side I'm gonna use
+is called the validator. All right. So, if you check here, we can start
+off by going to the validator.w3.org. As you can remember,
+the w3 is really the association for trying to make sure that everyone
+sticks to the same standards. And here are three options. We can validate by URI,
+the validate by file upload, and the validate by direct input. Now this is a somewhat important choice. Because for some of you, you may
+not decide to buy a hosting system, in which case you can not give it a URL. You can't type in C:// it just doesn't work when you put anything
+that's specific to your computer. So instead I'm going to show you
+an example of validate by direct input. So let's start by looking at
+the page we're gonna validate. Over here I have my little picture
+of Ashtabula with the beach. And as you can see, it looks pretty good, you don't see any problems with it
+as you kind of go back and forth. But let's see what happened when
+I actually grab all this code. So if you want this shortcut,
+this works for almost everyone. I'm gonna go ahead and
+do control-A and control-C. Head back over here and
+when I put it in and I click on check, once I start going
+down you can see this looks good. Right away it says you have an error and
+that error says stray end tag, and that's for a section. In most cases,
+the validators can kind of give you a clue as to which line you've messed up on,
+so let's go back and check the code. When I go over here and
+I go down to line 25. Oops. Go up a little bit here. Nope, still nothing there. Got really long lines. Oh, the validator's right. As you can see,
+I accidentally put section twice. What I really meant was to have an end
+section here and a beginning section here. So let's go ahead and get rid of that. I will save, I will grab it all again and
+let's try above putting in a new input. I'm actually gonna refresh. Go back here. And let's see if I have
+better luck this time. Good, good. No errors or warning to show, so
+I'm just going to go ahead and put my page back out there. So this is really just
+the simplest way to go in and make sure the syntax of
+your code is correct. Now, I kinda gave you a really simple
+example where I only had one error. What typically is going to happen is
+that it's gonna generate lots and lots of errors. And what I want to happen is make sure
+that you don't freak out when you see all of them. The reason is, is because error
+is what we call as propagate. The checker gets confused. When you see one error at the top, it
+kind of leads to a whole bunch of errors. So what you wanna do, is you always wanna fix the first
+error that the validator saw. Once you fix that,
+there's a really good chance that the 52 errors it detected
+have now dropped down to 12 or 11. Now, there's also the chance
+that once you fix one error, it's gonna be able to see
+that you had 20 or 30 more. But again, work on it step by step. If the error that the validator gives you
+isn't as clear as the one that I just saw, what you can do is search online and
+in the different forums. Because I can assure you that other
+people have seen the same errors before. So what you want to do right now, actually
+let's go back here, is let's go ahead and try validate file by URI. Pick your favorite site and
+go ahead and type it in. I'm going to go ahead and put in, not my
+own because I'm pretty sure it validates. I'm going to put in
+http://www.umsi.umich.edu, so my boss can get mad at me when I show
+his site potentially doesn't validate. Right away you can see that' it's
+going to find a lot of errors. No matter what site you put in,
+particularly if it's a very popular site, you're gonna see that there
+are a lot of errors in that big, the sites don't validate. Let's make sure your sites
+are better than theirs. So it's one thing to validate for
+what we call syntax. It's another question to validate for
+what we call accessibility. Again, we've talked about how
+important it is to make sure that your sites are accessible to
+the greatest number of people. So one of the places you can go to
+check that is wave.webaim.org, and it's a site for you to go and
+validate you accessibility. So let's take a look at that one again. I go up here, and I go to wave,
+got web accessibility. What you need to do here is,
+you can't upload your code by file, or just by the code itself,
+you need to put in a URL. So i'm gonna go ahead and
+go to that same one we did before which was the beaches. And put it in here. And you can see I didn't get any errors,
+but I did get a couple of alerts. And the alerts were
+simply telling me that. I'm not sure if your alternative text
+is quite as good as it should be. And also, another point is saying
+you have the same, a redundant link, which means you have the same link twice. So, right now everything looks
+good as far as syntax and the very high level of accessibility for
+the semantics. So, one of the nice things about
+the accessibility validation is that it gives you an idea of things that you
+haven't really thought about before but the downfall is that it
+only works on hosted pages. So validated sites
+are always more robust and more accessible than those
+sites that don't validate. So, as a coder it is your job to
+make sure that you go to these different validation sites and
+fix your code to be up to standards. If you're not coding it is also
+important for you to visit the sites that you go to on a regular basis and
+go ahead and validate those. Giving you a real sense of the different
+ways, people feel the importance or not importance of making their
+site accessible to everybody. Good luck.

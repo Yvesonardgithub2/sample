@@ -1,0 +1,74 @@
+Hi everybody. Today we're going to talk
+about hosting your site. And what I mean by hosting your site
+is how you take pages that you've been working on so far and put them up on the
+Internet for everyone else to see them. In order to host your site,
+you need two things. You need, first, a domain name. That's the name that people
+look at in your URL. The second thing you need is a hosting
+company, usually called a hosting service. And they are gonna be the one
+to act as a server for your files to let other people see them. So first, let's talk about domain names. Usually, when you go to buy a domain name,
+you're gonna purchase it for multiple years at a time. Cuz it really doesn't make that much
+sense to own your domain name for only a single year, unless of course
+maybe you're running for an election or doing something where you know you
+only want it up for a short time. The most common domain names
+have the domain ending of .com. But more and more the other
+extensions are getting acceptance. So if you're go to buy a domain name,
+and the only way you can get the name you really want is to use .net or
+.biz, that's okay. I recommend that you still go ahead and
+do it. The important thing to know is
+that domain names by themselves, they're really pretty
+much completely useless. You can own it, but unless you have
+files there that people can look at, no-one's going to be able to go there and
+see anything. So this is where the hosting
+services come in. So if you were to look at your url right
+now on your page, when you make a file and you right-click and you're looking at your
+site, in Chrome or Internet Explorer or anything like that, you're probably
+gonna notice that the protocol is file. We don't want that.
+We don't want it to be file or C: or my documents. We want it to be something
+that looks like www, and that's where the hosting company comes in. So, what you need is a registered IP
+address to connect your domain name with the Internet. So, hosting services are going to vary. They go from free, to what I call
+midrange, to really full service. And so, you need to decide what kind
+of hosting service best fits you. To be honest, I usually recommend
+free when you're getting started, and then make your way up. But let's talk about the pros and
+cons of each one. So with free services,
+you really have little or no control over your domain name. So if you go and look at some other
+people's, particularly from your school, your work, things where people are not
+really there just for the domain name, and you're gonna see things like
+wicks.whatever.whatever and then your name. You're going to have really limited tools. Sometimes when you pay for a site,
+you're gonna be able to have email registration and
+different things like that. Free services don't really
+wanna give you too much freedom because they're a little worried
+about what you're gonna do. Probably the worst part about free
+services is that there's a lot of advertising and redirects. If somebody goes to your site and makes the smallest little typo, rather
+than getting a nice friendly warning, they're probably going to be redirected to
+some somebody trying to sell something. The nice part about free services is
+that they have a very familiar look and feel across all of them. If you sign up for one service and learn how to do your hosting on it, you
+can pretty much rest assured that you're gonna be able to manipulate your files
+on any other free service as well. So let's talk about paid services,
+both the mid range and the full. With paid services, you tend to have much
+better tools for manipulating your code. It's not just about putting
+your files up on the web. You can do things like have email filters,
+send out special, what we call cron jobs. Cron jobs are different files that you
+can run at different times of the day. So if you wanna have a database,
+you wanna have a list server, you wanna have emails, then you might
+wanna pay for the paid services. The other really nice thing about paid
+services is that there's technical support available to you. So you can go ahead and email,
+chat, anything you need. You're not gonna find that
+with the free services, or it just won't be quite as good. But before you go for the paid services,
+I really recommend that you check for free services through work or
+school as well. A lot of time these free services
+still have the really great tools and the support, but
+you just don't have to pay for them. So, if in the end you're not
+quite sure what you want to do, if you want to go with free or paid, I know it can be overwhelming
+when you decide what you're gonna do. So I've simply recommended one site
+that I know a lot of my students use and that's Byethost. You go ahead and
+go to this url, byethost.com. Notice that it's b e y t h o s t .com. Once you get signed up, you're going
+to want to make sure that you remember the password that you type in because
+they're not going to mail it back to you and if you cannot remember it, it's
+really going to lead to a lot of problems. In fact, you'll probably end up giving
+up and signing up for a new account. Once you've done that and
+you've filled it out, you're probably gonna need to check
+your spam because in that spam, they're gonna send you an email that tells
+you all the details that you're gonna need in order to connect through either
+cPanel or some other type of FTP device. So, I hope you're excited, and I hope
+you're gonna take that next step, and that you want to go and
+post your work out on the web. Good luck.

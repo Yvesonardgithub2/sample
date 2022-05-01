@@ -1,0 +1,104 @@
+Hi, this video is gonna be a quick
+tutorial on the cPanel interface for managing your site. Let's go ahead and say that you've gotten
+a job or you have a homework assignment, and someone says, hey. I want you to go ahead and
+put your site up on the web. Many people's first reaction is,
+great, how do I do that? So, one of the most common ways
+is to use the CPanel interface. In order to use it, what you need to do is
+have the URL for your cPanel account, or your web hosting account. So if you have a domain name,
+such as introwebdesign.com or yourname.com, when you created your
+account, and you got your domain name and hosting service, they should've sent you
+an email that says what your URL is. So usually your domain name followed by
+slash cPanel is where you need to go. Once you go there, you come to a nice
+login where you can access your different files, and I'm gonna show you in
+real time in just a few minutes. So, what a file manager
+does is that it's a way for you to upload or download your files. This means you take them from your
+computer and you put them up onto the web. So, regardless of the kind of CPL
+configuration you have, one of the first things you wanna learn how to do is
+figure out how to find the File Manager. From the File Manager, you're going
+to look for a special folder called public_html, or in some cases just public,
+or they may have dropped the html. But the important thing is that
+you want to find the word public. Your public_html folder is going
+to have a lot of different files, some that you want people to see,
+and some that you don't. I mean, if you think about it, when you
+go to Amazon or other different sites, there are certain pages they want you to
+be able to access, but there are many more important, confidential files that
+you should not be able to get to. So uploading files to your public HTML
+folder makes them viewable to the public. So let's say that we're at my website,
+and I decide I wanna upload a new file. In fact, here's a file right here. It's a pretty simple one,
+it's not even a full file, and it is just a file with
+two images of my dog. Okay, so I would go here, and I would go
+to my URL, and I would add on cPanel. What should pop up from here,
+is a username and place for me to enter my password. Now if you're not sure what
+your username and password are, just make sure to go back to the email
+that your hosting service sent to you. They'll tell you what it is. So once I log in, you tend to have a fairly familiar
+site set up when you're using cPanel. Now, different cPanel accounts are gonna
+have different software that you can use, but the one thing that they will all have
+is something called the File Manager. So head down here, and
+I find the File Manager. There's gonna be lots
+of different options. I usually just go with the default or
+find where it says public _html. All right, so when I login,
+everyone's is going to look different because it depends on what
+files you've already uploaded. For many of you, the first time you go in,
+you will only see the cgi-bin folder. Go ahead and leave that alone. So I wanna upload my file over here. So I'm gonna go ahead and
+go to Upload > Choose File, and I am going to pick, oops,
+it's right up here. Safari images, short.html. Here we go. All right,
+as you can see down in the corner, it's showing that it should
+be uploading correctly. So go over here, and
+I want to check and make sure it there. Oh, it didn't work, and now we wanna
+think about why that didn't work. Okay, so I have here some
+issues that may have gone on along with the one I already showed you,
+and that is wait, why can't I see my file? Well, there are three main reasons. The first might be that you
+typed in the wrong URL. So, go back and check that out again. Did I make sure to type
+in the right file name? Maybe I forgot I had an s or
+something else down there. Second, when you uploaded the file,
+the transfer didn't work. So many times when you're uploading, you wanna make sure that there weren't
+any error messages on the cPanel. The final one,
+which we'll show you right here, is that when you uploaded the file, you
+did not have what we call read access, and this happens a lot when
+you're dealing with images. What this means is that
+your computer said, oh, sure, I'll put this file on your site, but
+I'm not gonna let anybody else see it. So, what we need to do, is we need to go
+in and we need to change the permissions for that image, and
+I can show you how to do it right now. So, one of the things that I wanna do
+is I wanna look at the code that was uploaded to the server. So, I'm gonna go ahead and do,
+I did a right a click, and now I'm gonna do View Page Source. And you can see that it says
+the pictures that it's looking for are both called bacon and
+they're inside an images folder. Oh, well,
+that's where my first mistake was. Let's go back over here,
+and you can see, oh, great. I'm gonna reload it. Here's that HTML file uploaded. I completely forgot to upload
+the images that go with the HTML file. So I'm gonna go ahead and
+create a new folder. Call it images, and I'm gonna upload it. And from there,
+I am going to upload the picture. Great. So let's go over and check and
+see how we're going. Oops, that's not the right one. I'm going to refresh it. Oh, great. Look, it worked for
+one of my files, but not the other. So let's look at that
+source code one more time. And you can see that I put
+in an intentional mistake. When you're working locally, when you're
+creating files on your C drive or your desktop, your browser's very nice. It's kind of like the helicopter
+parenting of browsers. And it'll say, oh, I know what she meant. So here, I put the wrong file extension,
+I used capital J-P-G, instead of lower cased. So, while it was great for
+then, that's not so great now. So what I wanna do, is I wanna go
+back over here, go up one folder. I'm going to what we call work
+on this here, Code Editor. And I'm going to change this to jpg. Let's see how it goes. Great, now our pictures are working. So, what you may notice is that I went in,
+and I changed my file as it was on the server. There are two different
+ways to change your files. One, is you can edit your files via
+cPanel, but I don't normally do that. Instead, what I like to do
+is I like to work locally, which means I only change my files when
+they're on my laptop or my desktop. The reason that I don't like to
+make changes on cPanel is that, first of all,
+the changes are immediately public. So if you put in a typo or something you
+didn't mean to have, it's out there, and you can't really fix it. Secondly, there's less
+opportunity to test and debug. So sometimes during my lectures I may show
+you that I'm working on files on cPanel, but I really avoid doing that. So at some point you are more
+than likely to be using cPanel to upload files to your server. Different version of cPanels
+are gonna offer different tools depending on if you're using a paid or
+a free site even among paid sites, there are many different variations. One of the things that you should do if
+you're interested in becoming more of an administrator is look into
+the different administrative tools that CPanel often offers. There are emails accounts,
+database management and cron jobs. Cron jobs are one of my favorite, because
+I teach all my freshman how to have their email automatically sent to their mothers
+at 9 AM saying they're studying hard. An alternative to using cPanel is to use
+something such as SFTP to transfer files, or other file transfer protocols. But the important thing to do is to
+learn that when you're using cPanel, you're going to make little mistakes and
+little things aren't going to work. The important thing to do is to relax, go
+in and follow the three steps I mentioned. Make sure you uploaded the file. Make sure you don't have any typos. And make sure that you have the permission
+set to the way they need to be. If you do that, you should be fine.
